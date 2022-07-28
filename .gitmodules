@@ -1,0 +1,6 @@
+[submodule "Shuba_back"]
+	path = Shuba_back
+	url = https://github.com/bazz-00/Shuba_back.git
+[submodule "Shuba_front"]
+	path = Shuba_front
+	url = https://github.com/Alekseyshutko/Shuba_front.git
